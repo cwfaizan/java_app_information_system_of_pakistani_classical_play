@@ -8,7 +8,7 @@ written in English alphabets. For example, over internet there are many pages wh
 written in English alphabets. There is a slight possibility that a user might mistype a word of
 Urdu written in English when your search engine is built on such words. In short, as a
 consequence, a user might write the same word in different forms. For example, in the
-context of this assignment, (اجاال اندھیرا (is a popular classical old drama and can be written in
+context of this assignment, (اجاال اندھیرا) is a popular classical old drama and can be written in
 many forms like andhera ujhala, andera ujhala, undera ujala and many other forms. All of
 these possible query terms should be mapped to the instance of this drama. For this
 Levenshtein Edit Distance is used to find distance between these forms and then based on
