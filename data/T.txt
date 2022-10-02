@@ -1,0 +1,15 @@
+Drama name%actor name%Producer name%Director name%Writer name%year%Url
+
+Tanhaiyan%Marina khan,Shehnaz Sheikh,Behroz Subzwari%Sahira Kazmi%Shahzad Khalil%Haseena Moin%1985%https://www.youtube.com/watch?v=qpU-RIZiz0k&list=PL-zl3yD86vM74987tjJpqs6a_8jvf7YbV,https://www.youtube.com/watch?v=tJmDjaVF0C4&list=PL-zl3yD86vM74987tjJpqs6a_8jvf7YbV&index=2,https://www.youtube.com/watch?v=aunEr2gPKEg&index=3&list=PL-zl3yD86vM74987tjJpqs6a_8jvf7YbV,https://www.youtube.com/watch?v=fm5Q1ARe9UA&index=4&list=PL-zl3yD86vM74987tjJpqs6a_8jvf7YbV
+
+Teesra kinara%Rahat Kazmi,Usman Peerzada,Sahira Kazmi%Rahat Kazmi%Sahira Kazmi%Rahat Kazmi%1970%https://www.youtube.com/watch?v=ksdK7Tl7xMU&list=PLlo4v64OHhK6s3apcl2RfIWHWHwcLYMFM,https://www.youtube.com/watch?v=aZTADanLBrQ,https://www.youtube.com/watch?v=K7MNw2eT-Yo,https://www.youtube.com/watch?v=-eGP-QZRxHs
+
+Teen Bata Teen%Adeel Hashmi,Faisal Qureshi,Ali Tahir,Mira Hashmi%Faisal Qureshi%Jawad Bashir%Adeel Hashmi%1995%https://www.youtube.com/watch?v=LjomA4NJP5g,https://www.youtube.com/watch?v=EJjNUyd6lnA,https://www.youtube.com/watch?v=9B_EpDqqQPE,https://www.youtube.com/watch?v=YdOL-93UweQ
+
+Talash%Ali Azmat,Salman Ahmad,Atiqa Odho,Sania Saeed%Salman Ahmad%Atiqa Odho%Anwar Maqsood%1990%https://www.youtube.com/watch?v=03nuaki_86o,https://www.youtube.com/watch?v=ovj4OcTSss4,https://www.youtube.com/watch?v=IiDLsQc0qUI
+
+Tapish%Qaiser Naqvi,Qaiser Khan Nizamani,Ahsan Khan,Shafi Mohammad,Jamal Shah,Rubina Ashraf,Shakeel%Rubina Ashraf%Sahira Kazmi%Noorul Huda Shah%1990%http://vidpk.com/24006/Ptv-Drama-Serial-Tapish-P-118/,http://vidpk.com/24131/Ptv-Drama-Serial-Tapish-P-218/,http://vidpk.com/25457/Ptv-Drama-Serial-Tapish-P-1718/,http://vidpk.com/25458/Ptv-Drama-Serial-Tapish-P-1818/
+
+Teesra Khat%Khalid Abbas Dar,Nida Mumtaz,Jazba Sultan Pervez Raza%Khalid abbas dar%Muhammad Nisar Hussain%Munnu Bhai%1987%https://www.youtube.com/watch?v=_3FRF5beg3A,http://www.dailymotion.com/video/x4xxo3q,https://tune.pk/video/4089671/ptv-classics-teesra-khat-
+
+Tipu Sultan%Tahir Kazmi, Mishi Khan,Ghazala Kaifi,Khayyam Sarhadi,Tahir Rizvi Javiriya Jalil,Ghulab Ghandio%Khayyam Sarhadi%Qasim Jalali%Khan Asif%1997%https://www.youtube.com/watch?v=l0FhekzTnQs,https://www.youtube.com/watch?v=1kGnpTcL7so,https://www.youtube.com/watch?v=xF4fzIzDzZM,https://www.youtube.com/watch?v=GzYgfLCfm4U
