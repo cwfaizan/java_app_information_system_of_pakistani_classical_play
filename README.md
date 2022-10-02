@@ -1,4 +1,4 @@
-# information system of pakistani classical play in java
+# information system of pakistani classical play (Implemented in java)
 
 You have to design a basic information system to archive Pakistani classical old videos from
 the past to connect and show the past to our younger generation. The goal of this assignment
